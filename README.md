@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordenjolley at CLEAR
+- 👋 Hi, this is @jordenjolley's CLEAR account
 - ⚡ Team: Infrastructure
 - 😄 Pronouns: she/her
 
