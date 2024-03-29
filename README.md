@@ -1,4 +1,4 @@
-- 👋 Hi, this is @jordenjolley's CLEAR account
+- 👋 Hi, this is @jordenjolley's CLEAR github
 - ⚡ Infrastructure Team
   
 <!---
